@@ -1,4 +1,4 @@
-## Imtera Laravel App
+## Laravel App
 
 Протестировать online можно здесь:
 
